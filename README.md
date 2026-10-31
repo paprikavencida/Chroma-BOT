@@ -1,4 +1,4 @@
-# Chroma_BOT 🌻
+# Chroma_BOT
 
 Official Discord bot of **Chroma Flower**, designed to manage and integrate features into the community.
 
