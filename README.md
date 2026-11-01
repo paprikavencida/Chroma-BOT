@@ -19,4 +19,4 @@ Chroma_BOT is part of the Chroma Flower ecosystem, a creative project focused on
 
 ## Credits
 
-Developed as part of **Chroma Flower** — Creative Technology & Media.
+*Part of the Chroma Flower creative ecosystem.*
